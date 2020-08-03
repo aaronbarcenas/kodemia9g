@@ -21,6 +21,7 @@ article{
     flex:start;
     display: flex;
     position:relative;
+    display: inline-block;
     }
 
 #main-header{
@@ -47,4 +48,8 @@ article{
     background-color: #CECEF6;
     block-size: 30px;
     border-color:#2121FE;
+}
+
+.container{
+    display:flex;
 }
